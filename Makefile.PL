@@ -30,7 +30,7 @@ my %WriteMakefileArgs = (
     "Path::Class" => "0.35",
     "Test::Most" => "0.34"
   },
-  "VERSION" => "0.001",
+  "VERSION" => "0.002",
   "test" => {
     "TESTS" => "t/*.t"
   }
