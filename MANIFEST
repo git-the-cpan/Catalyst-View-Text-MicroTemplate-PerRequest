@@ -14,4 +14,5 @@ t/503.mt
 t/b.mt
 t/basic.t
 t/custom.mt
+t/default_template_400.mt
 t/example.mt

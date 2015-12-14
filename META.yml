@@ -28,4 +28,4 @@ resources:
   bugtracker: https://github.com/jjn1056/Catalyst-View-Text-MicroTemplate-PerRequest/issues
   homepage: https://github.com/jjn1056/Catalyst-View-Text-MicroTemplate-PerRequest
   repository: https://github.com/jjn1056/Catalyst-View-Text-MicroTemplate-PerRequest
-version: '0.003'
+version: '0.004'
